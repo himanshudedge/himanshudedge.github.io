@@ -5,7 +5,7 @@ description: "This is what I do."
 header-img: "img/photo-bg.jpg"
 ---
 
-{% for post in paginator.posts-photo %}
+{% for post in paginator.postsphoto %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
