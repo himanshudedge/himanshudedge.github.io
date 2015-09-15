@@ -6,7 +6,7 @@ header-img: "img/proj-bg.jpg"
 category: projects
 ---
 
-{% for post in paginator.post %}
+{% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
