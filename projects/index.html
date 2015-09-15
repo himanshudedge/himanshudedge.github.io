@@ -3,9 +3,10 @@ layout: page
 title: "Projects Portfolio"
 description: "This is what I do."
 header-img: "img/proj-bg.jpg"
+category: projects
 ---
 
-{% for post in paginator.postsproj %}
+{% for post in paginator.post %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
