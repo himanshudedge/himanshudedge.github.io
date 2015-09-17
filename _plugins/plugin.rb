@@ -4,6 +4,7 @@ module Jekyll
     def generate(site)
     end
   end
+end 
 
   class CategoryPages < Generator
   
