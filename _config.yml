@@ -14,7 +14,6 @@ markdown: kramdown
 highlighter: pygments
 permalink: pretty
 Pagination: true
-paginate: 5
+paginate: 3
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 categories: [photos, projects]
-
