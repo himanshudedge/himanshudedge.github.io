@@ -12,8 +12,8 @@ categories: photos
 
 <h2 class="section-heading">The First Shoot</h2>
 
-<a target="_blank" href="{{ site.baseurl }}/img/projector/IMG_4875.jpg">
-    <img src="{{ site.baseurl }}/img/projector/IMG_4875.jpg" alt="Oh, shoot! Look's like you're missing out on the photo:(">
+<a target="_blank" href="{{ site.baseurl }}/img/projector/IMG_4875.JPG">
+    <img src="{{ site.baseurl }}/img/projector/IMG_4875.JPG" alt="Oh, shoot! Look's like you're missing out on the photo:(">
 </a>
 <span class="caption text-muted">Matt with a fractal pattern projected on his face</span>
 
