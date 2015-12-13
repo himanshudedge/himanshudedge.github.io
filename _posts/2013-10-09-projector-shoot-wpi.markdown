@@ -39,5 +39,5 @@ categories: photos
     <img src="{{ site.baseurl }}/img/projector/IMG_4869_2.jpg" alt="Oh, shoot! Look's like you're missing out on the photo:(">
 </a>
 
-<p>Be sure to check out the <a arget="_blank" href="http://facebook.com/wpi_photo_club">WPI Photography Club's</a> facebook page, they post photos from all the shoots they do there! Also if you want to see the rest of the images from this shoot click <a arget="_blank" href="FLICKER">here</a>.</p>
+<p>Be sure to check out the <a target="_blank" href="http://facebook.com/wpi_photo_club">WPI Photography Club's</a> facebook page, they post photos from all the shoots they do there! Also if you want to see the rest of the images from this shoot click <a target="_blank" href="FLICKER">here</a>.</p>
 
