@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Autonomous Wheelchair-RIVeR Lab WPI "
-subtitle:   "Summer research project at WPI with Professor T. Padir. Developing an autonomous mobile platform with minimal modifictions to factory made electric wheelchair"
-date:       2015-06-10 12:00:00
+title:      "Gas Powered Electric Chair (Hybrid GoKart)"
+subtitle:   "Summer Project funded by Georgia Tech Invention Studio Maker Grant where I created a series hybrid go kart."
+date:       2016-07-28 12:00:00
 author:     "Himansnhu Dedge"
-header-img: "img/wheelchair/post-bg.png"
+header-img: "img/gokart/post-bg.png"
 categories: projects
 ---
 

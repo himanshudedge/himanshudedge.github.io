@@ -8,5 +8,5 @@ header-img: "img/protoboardbuzz/post-bg.jpg"
 categories: projects
 ---
 
-<h2 class="section-heading">Why?</h2>
+<h2 class="section-heading">Why do this?</h2>
 <p></p>
