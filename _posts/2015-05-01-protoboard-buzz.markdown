@@ -9,4 +9,6 @@ categories: projects
 ---
 
 <h2 class="section-heading">Why do this?</h2>
+
+<p> <a href="https://goo.gl/photos/guYGRCaXB68Td9tVA" target="_blank">Here</a> are photos documenting the build process.</p>
 <p></p>

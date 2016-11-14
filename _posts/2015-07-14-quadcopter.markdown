@@ -13,10 +13,12 @@ categories: projects
 <p>*Update* Jan 2016: Now that I am back on Tech's campus in Atlanta I should be able to keep working on the design!</p>
 
 
-<h2 class="section-heading">Ideation</h2>
+<p> <a href="https://goo.gl/photos/vp4QYt62L9L3SMJo8" target="_blank">Here</a> are photos documenting the build process.</p>
+
+<!-- <h2 class="section-heading">Ideation</h2>
 <p>The first time I thought of building my own quadcopter was junior year of high school. We were selecting our Senior Independent Stuy Projects (SISP) and I thought it would be fun to build a quadcopter, and I would get to learn a lot at the same time. At the time however, I wasn't completely aware of exactly how to go about making the quadcopter, neither did I have adequte machining resources to complete the quad. I finally re-visited the idea of making the quadcopter at the end of freshman year at Georgia Tech. By that time I had gained enough machinning and technical knowledge needed to tackle this project.</p>
 
 <h2 class="section-heading">Brainstorming</h2>
 
 <p>Hu</p>
-
+ -->
